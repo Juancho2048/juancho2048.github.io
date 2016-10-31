@@ -124,7 +124,7 @@ nav ul li.subscribe a {
 	position: relative;
 	margin-top: 55px;
 	padding: 50px;
-	background: #695e53 url("images/introbkg.png") repeat-x;
+	background: #695e53;
 	
 	-webkit-background-size: 100%;
 	-o-background-size: 100%;
